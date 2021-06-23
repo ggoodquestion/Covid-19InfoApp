@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NTPUAppFinal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_data">統計</string>
+    <string name="title_news">新聞</string>
+    <string name="title_trace">足跡</string>
+
+    <string-array name="news_filter">
+        <item>疫情</item>
+        <item>肺炎</item>
+        <item>武漢肺炎</item>
+        <item>疫苗</item>
+        <item>衛服部</item>
+        <item>covid-19</item>
+        <item>確診</item>
+        <item>實聯</item>
+        <item>紓困</item>
+        <item>PCR</item>
+        <item>篩檢</item>
+        <item>快篩</item>
+    </string-array>
+</resources>

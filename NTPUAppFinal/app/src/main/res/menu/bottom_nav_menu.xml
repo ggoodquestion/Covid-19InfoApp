@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_data"
+        android:icon="@drawable/outline_assessment_24"
+        android:title="@string/title_data" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/outline_list_alt_24"
+        android:title="@string/title_news" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_trace"-->
+<!--        android:icon="@drawable/outline_directions_walk_24"-->
+<!--        android:title="@string/title_trace" />-->
+
+</menu>
